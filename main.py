@@ -42,7 +42,8 @@ while True:
     elif choice == '4':
         # https://www.w3schools.com/python/python_lists_comprehension.asp
         # https://www.w3schools.com/python/python_lists_access.asp - Range of Indexes
-        pass
+        pric = int(input("Enter apartment price: "))
+        
     elif choice == '5':
         # https://www.w3schools.com/python/python_lists_comprehension.asp
         # https://www.w3schools.com/python/python_lists_access.asp - Range of Indexes
